@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS C\\c_assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D83AFF6-8784-4B76-ACDE-E124B13B7948}|c_assignment\\c_assignment.vcxproj|D:\\VS C\\c_assignment\\c_assignment\\c_assignment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D83AFF6-8784-4B76-ACDE-E124B13B7948}|c_assignment\\c_assignment.vcxproj|solutionrelative:c_assignment\\c_assignment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "c_assignment.cpp",
+              "DocumentMoniker": "D:\\VS C\\c_assignment\\c_assignment\\c_assignment.cpp",
+              "RelativeDocumentMoniker": "c_assignment\\c_assignment.cpp",
+              "ToolTip": "D:\\VS C\\c_assignment\\c_assignment\\c_assignment.cpp",
+              "RelativeToolTip": "c_assignment\\c_assignment.cpp",
+              "ViewState": "AQIAAMsBAAAAAAAAAAAAAN0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-05T10:00:07.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
