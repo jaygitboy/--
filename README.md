@@ -1,4 +1,4 @@
-### Hubei College Entrance Examination Volunteer Application System
+# Hubei College Entrance Examination Volunteer Application System
 
 A C Language Course Design Project of School of Integrated Circuit, Huazhong University of Science and Technology (HUST)
 Project Overview
